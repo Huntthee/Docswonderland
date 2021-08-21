@@ -32,8 +32,12 @@ header {
   margin: 15px;
 }
 
+#navigation li a {
+  padding: 0px;
+}
 
-@media screen and (min-width: 600px) {
+
+@media screen and (min-width: 1000px) {
   #header {
     flex-direction: row;
   }
@@ -44,7 +48,9 @@ header {
 
   #header img {
     display: block;
-    justify-content: center;
+    align-self: center;
+    height: 50px;
+    width: 50px;
   }
 
   #navigation {

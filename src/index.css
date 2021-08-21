@@ -34,12 +34,17 @@ a {
   font-weight: bold;
 
   color: var(--notwhite);
+
+  padding: 15px;
 }
 
 a:hover {
   color: var(--white);
   background: var(--rust);
+}
 
+section {
+  margin: 0 5%;
 }
 
 code {

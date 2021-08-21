@@ -6,7 +6,7 @@ class Header extends React.Component {
     return (
       <header id="header">
         <h1>Doc's Wonderland</h1>
-        <img src="" alt="Server Logo Image"/>
+        <img src="rust-logo.svg" alt="Rust Game Logo"/>
         <nav id="navigation">
           <li><a href="#">Home</a></li>
           <li><a href="#">Info</a></li>
