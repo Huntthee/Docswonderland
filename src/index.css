@@ -1,14 +1,45 @@
+:root {
+  --dark: #181818;
+  --light: #1c1e1e;
+  --rust: #cd412b;
+  --notwhite: #a5a7a8;
+  --white: #ffffff;
+}
+
 body {
   margin: 0;
+
   font-family: -apple-system, BlinkMacSystemFont, 'Open Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  background: var(--dark);
+  color: var(--notwhite);
+
 }
 
 h1 {
   font-family: -apple-system, BlinkMacSystemFont, 'Paytone One', Arial, Helvetica,
     sans-serif;
+    color: var(--white);
+}
+
+h2, h3, h4{
+  color: var(--white);
+}
+
+a {
+  text-decoration: none;
+  font-weight: bold;
+
+  color: var(--notwhite);
+}
+
+a:hover {
+  color: var(--white);
+  background: var(--rust);
+
 }
 
 code {

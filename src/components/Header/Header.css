@@ -1,0 +1,32 @@
+header {
+  display: flex;
+
+  position: sticky;
+  top: 0;
+
+  width: 100%;
+
+  z-index: 10;
+
+  background: #1c1e1e;
+}
+
+#header h1 {
+  margin-left: 2%;
+}
+
+#navigation {
+  display: flex;
+  align-self: flex-end;
+  position: absolute;
+  right: 5%;
+}
+
+#navigation li {
+  list-style-type: none;
+  margin: 15px;
+}
+
+#navigation li a {
+  padding: 15px;
+}
