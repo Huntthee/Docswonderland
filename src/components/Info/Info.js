@@ -1,13 +1,18 @@
 import React from 'react';
+import './Info.css';
 
 class Info extends React.Component {
   render() {
     return (
       <section id="info-section">
-        <h2>The Server</h2>
         <article>
-          <h3>Rules, Information & Wipe Schedule</h3>
-          <p>Some info here</p>
+          <h2>The Server</h2>
+          <h4>~ Wipes whenever ~</h4>
+        </article>
+        
+        <article>
+          <h3>Rules & Information</h3>
+          <p>Some info here, a whole lot more info to test the padding of this container.</p>
           <h4>Server Rules</h4>
           <ul>
             <li>Rule 1</li>
@@ -15,8 +20,8 @@ class Info extends React.Component {
             <li>Rule 3</li>
             <li>Rule 4</li>
           </ul>
-          <h4>Wipes whenever</h4>
         </article>
+
         <article>
           <h3>Active Admins</h3>
           <ul>
@@ -25,6 +30,7 @@ class Info extends React.Component {
             <li>Huntthee</li>
           </ul>
         </article>
+
         <article>
           <h3>Mods Enabled</h3>
           <ul>

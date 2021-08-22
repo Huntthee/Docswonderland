@@ -1,0 +1,14 @@
+#donate-section a {
+  margin-bottom: 2%;
+}
+
+#donate-section p {
+  padding: 0 2%;
+}
+
+@media screen and (min-width: 1000px) {
+  #donate-section {
+    flex-direction: column;
+    align-items: center;
+  }
+}

@@ -44,7 +44,15 @@ a:hover {
 }
 
 section {
-  margin: 0 5%;
+  margin: 5% 5%;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+  background: var(--light);
 }
 
 code {
@@ -53,7 +61,16 @@ code {
 }
 
 @media screen and (min-width: 1000px) {
-  #hero-section {
-    background: url('./components/Images/rust-truck-full-edit.jpg') no-repeat;
+  section {
+    flex-direction: row;
+    align-items: baseline;
+  }
+
+  section h2 {
+    padding: 15px;
+  }
+
+  article {
+    margin: 0 auto;
   }
 }

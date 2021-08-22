@@ -8,10 +8,14 @@
 
 #hero-section img {
   position: absolute;
-  z-index: -10;
+  z-index: 10;
 
   align-self: center;
   opacity: 50%;
+}
+
+#hero-section h2 {
+  z-index: 20;
 }
 
 #hero-section a {
@@ -25,6 +29,9 @@
   #hero-section {
     width: 90%;
     align-items: center;
+
+    background: url('../Images/rust-truck-full-edit.jpg');
+    clip-path: polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%);
   }
 
   #hero-section img {
@@ -46,7 +53,8 @@
     
     text-decoration: none;
 
-    top: 50%;
+    position: absolute;
+    top: 60%;
     left: 30%;
   }
 }
