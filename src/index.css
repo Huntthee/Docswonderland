@@ -51,3 +51,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@media screen and (min-width: 1000px) {
+  #hero-section {
+    background: url('./components/Images/rust-truck-full-edit.jpg') no-repeat;
+  }
+}

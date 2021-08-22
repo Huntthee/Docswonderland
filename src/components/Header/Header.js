@@ -6,12 +6,12 @@ class Header extends React.Component {
     return (
       <header id="header">
         <h1>Doc's Wonderland</h1>
-        <img src="rust-logo.svg" alt="Rust Game Logo"/>
+        <img src="images/rust-logo.svg" alt="Rust Game Logo"/>
         <nav id="navigation">
-          <li><a href="#">Home</a></li>
-          <li><a href="#">Info</a></li>
-          <li><a href="#">Events</a></li>
-          <li><a href="#">Donate</a></li>
+          <li><a href="#hero-section">Home</a></li>
+          <li><a href="#info-section">Info</a></li>
+          <li><a href="#events-section">Events</a></li>
+          <li><a href="#donate-section">Donate</a></li>
         </nav>
       </header>
     )
