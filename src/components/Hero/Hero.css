@@ -11,7 +11,7 @@
   z-index: 10;
 
   align-self: center;
-  opacity: 50%;
+  opacity: .5;
 }
 
 #hero-section h2 {
