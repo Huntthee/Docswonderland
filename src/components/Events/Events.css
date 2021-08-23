@@ -1,0 +1,5 @@
+@media screen and (min-width: 1000px) {
+  #events-section article {
+    max-width: 40ch;
+  }
+}

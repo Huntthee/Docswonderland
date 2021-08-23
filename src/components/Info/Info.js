@@ -7,7 +7,7 @@ class Info extends React.Component {
       <section id="info-section">
         <article>
           <h2>The Server</h2>
-          <h4>~ Wipes whenever ~</h4>
+          <h4>~ Wipes Bi-Weekly ~</h4>
         </article>
         
         <article>
