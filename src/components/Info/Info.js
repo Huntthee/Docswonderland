@@ -12,7 +12,7 @@ class Info extends React.Component {
         
         <article>
           <h3>Rules & Information</h3>
-          <p>This server provides some quality of life mods and upgrades to the base game of Rust such as increased gather rates, remover tool and other perks.</p>
+          <p>This server provides some quality of life mods and upgrades to the base game of Rust such as increased gather rates, remover tool and other perks. The server is new player friendly, but will not intervene in the core mechanics of the game. Raid or be Raided, Kill or be Killed.</p>
           <h4>Server Rules</h4>
           <ul>
             <li>~ Respect All Players ~</li>
@@ -33,8 +33,8 @@ class Info extends React.Component {
         <article>
           <h3>Mods Enabled</h3>
           <ul>
-            <li>Mod 1</li>
-            <li>Mod 2</li>
+            <li>Backpacks</li>
+            <li>Remover</li>
             <li>Mod 3</li>
             <li>Mod 4</li>
           </ul>
