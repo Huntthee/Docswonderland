@@ -1,3 +1,15 @@
 #info-section {
   text-align: center;
 }
+
+#info-section article ul li {
+  list-style-type: none;
+  margin-left: -40px;
+}
+
+
+@media screen and (min-width: 1000px) {
+  #info-section article {
+    max-width: 80ch;
+  }
+}

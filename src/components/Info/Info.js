@@ -12,13 +12,12 @@ class Info extends React.Component {
         
         <article>
           <h3>Rules & Information</h3>
-          <p>Some info here, a whole lot more info to test the padding of this container.</p>
+          <p>This server provides some quality of life mods and upgrades to the base game of Rust such as increased gather rates, remover tool and other perks.</p>
           <h4>Server Rules</h4>
           <ul>
-            <li>Rule 1</li>
-            <li>Rule 2</li>
-            <li>Rule 3</li>
-            <li>Rule 4</li>
+            <li>~ Respect All Players ~</li>
+            <li>~ No Hacking/Exploits ~</li>
+            <li>~ No Griefing ~</li>
           </ul>
         </article>
 
