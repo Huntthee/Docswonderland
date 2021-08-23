@@ -3,6 +3,8 @@ import Hero from '../Hero/Hero';
 import Info from '../Info/Info';
 import Events from '../Events/Events';
 import Donate from '../Donate/Donate';
+import Footer from '../Footer/Footer';
+
 
 function App() {
   return (
@@ -12,6 +14,7 @@ function App() {
       <Info/>
       <Events/>
       <Donate/>
+      <Footer/>
     </div>
   );
 }
