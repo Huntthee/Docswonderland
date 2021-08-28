@@ -34,9 +34,8 @@ class Info extends React.Component {
           <h3>Mods Enabled</h3>
           <ul>
             <li>Backpacks</li>
-            <li>Remover</li>
-            <li>Mod 3</li>
-            <li>Mod 4</li>
+            <li>Remover Tool</li>
+            <li>And More!</li>
           </ul>
         </article>
       </section>
