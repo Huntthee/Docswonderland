@@ -43,6 +43,10 @@ a:hover {
   background: var(--rust);
 }
 
+p {
+  margin: 0 2%;
+}
+
 section {
   margin: 5% 5%;
 
