@@ -35,6 +35,8 @@ class Info extends React.Component {
           <ul>
             <li>Backpacks</li>
             <li>Remover Tool</li>
+            <li>Z-Levels</li>
+            <li>Night Zombies</li>
             <li>And More!</li>
           </ul>
         </article>

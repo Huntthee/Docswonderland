@@ -2,4 +2,8 @@
   #events-section article {
     max-width: 40ch;
   }
+
+  #events-section p {
+    padding-bottom: 4%;
+  }
 }

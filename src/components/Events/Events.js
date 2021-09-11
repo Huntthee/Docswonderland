@@ -11,14 +11,15 @@ class Events extends React.Component {
         <article>
           <h3>Doc's Wonderland Returns!</h3>
           <p>Server LIVE Now!</p>
+          <p>Doc's Wonderland returns to the server list and welcomes back past players!</p>
         </article>
         <article>
           <h3>Duelist Mode Introduced</h3>
           <p>Face off 1v1 against your rivals with this Rust mod.</p>
         </article>
         <article>
-          <h3>No Events Yet!</h3>
-          <p>Upcoming events will appear here with a short description of the festivities to enjoy.</p>
+          <h3>Halloween is Near!</h3>
+          <p>Look forward to month-long celebrations for October with the Rust Halloween Event!</p>
         </article>
       </section>
     )
