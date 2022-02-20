@@ -1,4 +1,7 @@
-# :computer: Doc's Wonderland Server Website :palm_tree: :beach_umbrella:
+# :computer: Doc's Wonderland Server Website (Archived) :palm_tree: :beach_umbrella:
+
+## This Repo now exists to showcase past works, the website is no longer live.
+
 **Built and Maintained by Huntthee &copy; 2021** :partying_face: 
 
 ## :rainbow: A wonderful place full of wonderous things! :star:
